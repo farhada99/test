@@ -45,7 +45,7 @@ const VerticalLine: React.FC<VerticalLineProps> = ({
                 color:color,
                 ...style,
             }}
-        ></div>
+         />
     );
 };
 
